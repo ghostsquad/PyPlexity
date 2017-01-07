@@ -1,0 +1,66 @@
+subset of words from:
+http://www.puzzles.ca/wordsearch/computer_jargon_2.html
+created using:
+https://www.superteacherworksheets.com/generator-word-search.html
+
+. . . R E T N I R P . . . Y E L I M S . L . S
+. . . . D A O L N W O D . . L . . . . . I . P
+. . H A R D W A R E . . D . L . H . P . N . Y
+. E . . . . . . K . . . A . O . T . E . U . W
+. M M E N U T . E H . . O . R . D . R . X . A
+. A K S I D N R Y A M . L . C . I J I . . . R
+. N . W P . E E B C U D P . S . W P P . . . E
+. R . I O . M S O K L R U . . . D E H . . . T
+. E E N L V U O A E T O . . . . N G E T R . R
+R S T D F I C L R R I W . . . . A . R E E . O
+E U Y O A R O U D . M S . . . . B . A N B . P
+V . B W R U D T . . E S A B A T A D L R O T .
+R . A S E S . I . . D A C R A S H . . E O U .
+E . G . T B I O S . I P . . E H C A C H T P .
+S . I . . . . N . . A E M O T I C O N T . N .
+. . G R E V I R D . . . M O D E M . . E . I .
+
+Word directions and start points are formatted: (Direction, X, Y)
+Directions:
+W ->
+E <-
+N ^
+S v
+SE \
+
+BANDWIDTH(E,9,16)
+BIOS (W,6,4)
+CACHE (SE,11,3)
+CRASH(W,10,12)
+DATABASE(N,20,12)
+DISK (W,21,1)
+DOCUMENT(E,3,7)
+DOWNLOAD(E,14,3)
+DRIVER(W,19,13)
+EMOTICON(E,13,14)
+ETHERNET(S,23,7)
+GIGABYTE(W,10,9)
+HACKER (E,4,5)
+HARDWARE(N,21,15)
+INPUT (N,22,14)
+JPEG (E,9,15)
+KEYBOARD(E,3,13)
+LINUX (E,13,15)
+MENU (W,19,4)
+MODEM(SE,13,6)
+MULTIMEDIA(W,11,10)
+PASSWORD(N,22,9)
+PERIPHERAL(N,12,14)
+PORT (S,18,7)
+PRINTER (W,8,3)
+REBOOT (E,5,8)
+RESOLUTION(W,19,11)
+SCROLL (S,1,9)
+SERVER (W,7,15)
+SMILEY (E,5,14)
+SPYWARE (E,1,6)
+TERAFLOP(SE,12,2)
+UPLOAD(W,18,12)
+USERNAME(W,20,2)
+VIRUS (S,23,1)
+WINDOWS(E,6,1)
